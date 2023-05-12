@@ -24,7 +24,7 @@ def calcular_pago(file):
             
             if dia in week:
 
-                print(dia,duracion_en_horas, hora_de_inicio)
+                # print(dia,duracion_en_horas, hora_de_inicio)
                
                 if 0 < hora_de_inicio < 9:
                     pago_total += duracion_en_horas * 25
