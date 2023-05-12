@@ -28,6 +28,7 @@ Aunque el programa funciona correctamente, no se tuvieron en cuenta algunos posi
 
 ¿Qué sucede si un empleado trabaja hasta el siguiente segmento de trabajo? Por ejemplo, si inicia a las 08:00 y concluye a las 11:00.
 
+Asume que el horario de trabajo es dentro del mismo día y no cruza la medianoche.
 
 
 ## Cómo Ejecutar el Programa Localmente
