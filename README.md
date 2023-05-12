@@ -6,7 +6,7 @@ El código proporcionado es un script de Python diseñado para calcular el salar
 
 ## Arquitectura
 
-La solución está escrita en Python y consta de una función principal llamada `calcular_pago(file)`. Esta función toma como argumento la ruta de un archivo de texto que contiene los registros de las horas de trabajo de los empleados.
+La solución está escrita en Python y consta de una función principal llamada `calcular_pago(file)`. Esta función toma como argumento la informacion de un archivo de texto que contiene los registros de las horas de trabajo de los empleados.
 
 El código comienza por leer el archivo de texto, dividiendo cada línea en el nombre del empleado y su horario de trabajo. El horario de trabajo se procesa aún más para determinar el día de la semana y las horas de inicio y finalización.
 
